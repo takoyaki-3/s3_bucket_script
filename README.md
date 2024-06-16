@@ -44,7 +44,7 @@ LOCAL_DIRECTORY=<your-local-directory>
 Run the script:
 
 ```bash
-python script.py
+python delete.py
 ```
 
 ## Usage
